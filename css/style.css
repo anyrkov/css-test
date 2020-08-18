@@ -1,0 +1,29 @@
+/* line 7, D:/WwwProjects/htdocs/tests/css-test/sass/style.sass */
+h1 {
+  color: red;
+  border: 1px solid blue;
+  padding: 20px;
+  font-size: 20px;
+}
+
+/* line 10, D:/WwwProjects/htdocs/tests/css-test/sass/style.sass */
+h1 span {
+  color: white;
+  padding: 20px;
+}
+
+/* line 14, D:/WwwProjects/htdocs/tests/css-test/sass/style.sass */
+span {
+  border: 1px solid blue;
+  padding: 20px;
+  font-size: 20px;
+  color: red;
+}
+
+/* line 17, D:/WwwProjects/htdocs/tests/css-test/sass/style.sass */
+span .buble {
+  width: 100px;
+  background-color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
